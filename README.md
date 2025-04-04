@@ -1,6 +1,6 @@
 ## About Me
   <div style="text-align:justify;">
-    I am a CS student looking for challenges that drive personal and professional growth. I am continuously seeking opportunities to expand my knowledge across various areas of IT.
+    Fullstack Developer looking for challenges that drive personal and professional growth. Continuously seeking opportunities to expand my knowledge across various areas of IT.
   </div>
 
 ## Technologies
@@ -17,7 +17,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xustavo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div style="justify-content: center;">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xustavo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xustavo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
+</div>
 
 ## Tools
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
