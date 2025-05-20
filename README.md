@@ -18,8 +18,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <div style="justify-content: center;">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Xustavo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xustavo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavo-m-xavier&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-m-xavier&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
 </div>
 
 ## Tools
